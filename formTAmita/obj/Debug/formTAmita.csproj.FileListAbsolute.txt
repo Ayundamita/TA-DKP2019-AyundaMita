@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\bin\Debug\formTAmita.exe.config
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\bin\Debug\formTAmita.exe
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\bin\Debug\formTAmita.pdb
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.exe
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.pdb
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.error_form.resources
+c:\users\user\documents\visual studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.error1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\formTAmita\formTAmita\obj\Debug\formTAmita.ketentuan.resources
